@@ -17,7 +17,7 @@ console.log("Hola, ",miNombre, misApellidos)
 //2. Declaracion de Variables utilizando el prefijo CONST
 console.warn("-- Declarcion de Variables utilizando el prefijo CONST --")
 
-//La palabra reservada CONST nos permite a nivel memoria reservar espacion para almacenar datos de una constante 
+//dLa palabra reservada CONST nos permite a nivel memoria reservar espacion para almacenar datos de una constante 
 // que a diferencia de una variable esta no puede cambiar su valor durante la ejecucion del programa, de igual manera 
 // no se pueden declarar constantes sin obligatoriamente iniciarlas, es decir asignarles un valor especifico por ejemplo
 
