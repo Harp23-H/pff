@@ -14,7 +14,7 @@ console.log("El valor de la variable misApellidos es =", misApellidos)
 //Para actualizar el valor de una variable previamente definida solo basta con igualar el nuevo valor
 miNombre="Harold Alexis";
 console.log("Hola, ",miNombre, misApellidos)
-
+//s
 //2. Delaracion de Variables utilizando el prefijo CONST
 console.warn("-- Declarcion de Variables utilizando el prefijo CONST --")
 //njk
