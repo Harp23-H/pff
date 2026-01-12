@@ -6,7 +6,9 @@ console.warn("-- Declaracion de Variables utilizando el prefijo VAR --")
 //utilizaremos la funcion console.log para imprimir el valor actual de la variable 
 console.log ("El valor de la variable elNombre es =", miNombre);
 console.log ("El valor de la variable misApellidos es =", misApellidos);
-//esto arroja un undefined dado que la variable no a sido inicializadaa
+
+//esto arroja un undefined dado que la variable no a sido inicializada
+//esto arroja un undefined dado que la variable no a sido inicializada
 misApellidos="Ramirez Peralta"
 //En este momento la variable ya tiene un valor 
 console.log("El valor de la variable misApellidos es =", misApellidos)
@@ -18,12 +20,19 @@ console.log("Hola, ",miNombre, misApellidos)
 console.warn("-- Declarcion de Variables utilizando el prefijo CONST --")
 
 //dLa palabra reservada CONST nos permite a nivel memoria reservar espacion para almacenar datos de una constante 
+
+//s
+//2. Delaracion de Variables utilizando el prefijo CONST
+console.warn("-- Declarcion de Variables utilizando el prefijo CONST --")
+//njk
+//La palabra reservada CONST nos permite a nivel memoria reservar espacion para almacenar datos de una constante 
+
 // que a diferencia de una variable esta no puede cambiar su valor durante la ejecucion del programa, de igual manera 
 // no se pueden declarar constantes sin obligatoriamente iniciarlas, es decir asignarles un valor especifico por ejemplo
 
 const miMatricula="240497"
 
-//imprimir el valor de la constante 
+//imprimir el valor de laa constante 
 console.log ("El valor actual de la constante miMatricula es",miMatricula)
 
 //const miEdad; // -- esto ocaciona un error porque la variable no fue inicializada
